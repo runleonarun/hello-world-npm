@@ -12,13 +12,13 @@ Or add this package to your `package.json` file:
 
 ```
 "dependencies": {
-    "@codertocat/hello-world-npm": "1.0.0"
+    "@runleonarun/hello-world-npm": "1.0.0"
   }
 ```
 
 ## Usage
 
 ```
-const myPackage = require('@codertocat/hello-world-npm');
+const myPackage = require('@runleonarun/hello-world-npm');
 myPackage.helloWorld();
 ```
