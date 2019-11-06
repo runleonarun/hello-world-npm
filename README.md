@@ -12,7 +12,7 @@ Or add this package to your `package.json` file:
 
 ```
 "dependencies": {
-    "@runleonarun/hello-world-npm": "1.0.3"
+    "@runleonarun/hello-world-npm": "1.0.4"
   }
 ```
 

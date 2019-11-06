@@ -1,6 +1,6 @@
 {
   "name": "@runleonarun/hello-world-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple npm package to demonstrate GitHub Package Registry",
   "main": "index.js",
   "scripts": {
