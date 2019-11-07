@@ -11,7 +11,10 @@
     "url": "git+https://github.com/runleonarun/hello-world-npm.git"
   },
   "author": "runleonarun",
-  "license": "ISC",
+  "license": "MIT",
+   "dependencies": {
+      "@octo-org/hello-world-npm": "1.0.11"
+   },
   "bugs": {
     "url": "https://github.com/runleonarun/hello-world-npm/issues"
   },
